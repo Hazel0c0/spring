@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+**Hazel0c0/Hazel0c0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 <!--
 **Hazel0c0/Hazel0c0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
