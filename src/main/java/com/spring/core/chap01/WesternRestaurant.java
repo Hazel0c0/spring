@@ -6,7 +6,7 @@ public class WesternRestaurant implements Restaurant {
     private Chef chef = new JannChef();
 
     // 요리 코스
-    private Course course = new FrenchCourse();
+    private FrenchCourse course = new FrenchCourse();
 
     // 요리를 주문하는 기능
     public void order() {

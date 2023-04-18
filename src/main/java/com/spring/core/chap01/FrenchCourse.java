@@ -1,8 +1,8 @@
 package com.spring.core.chap01;
 
-public class FrenchCourse implements Course {
+public class FrenchCourse implements Course{
 
-    @Override
+
     public void combineMenu() {
         System.out.println("====== 프렌치 코스 구성 ======");
         System.out.println("1. 제철 채소, 퀴노아");

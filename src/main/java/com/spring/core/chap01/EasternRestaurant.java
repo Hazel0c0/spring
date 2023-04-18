@@ -1,15 +1,15 @@
 package com.spring.core.chap01;
 
-public class EasternRestaurant {
+public class EasternRestaurant implements Restaurant {
     //쉐프
-    private JannChef chef=new JannChef();
+    private Chef chef=new KimuraChef();
 
     // 요리 코스
-    private FrenchCourse course= new FrenchCourse();
+    private Course course= new SushiCourse();
 
     //요리를 주문하나ㅡㄴ 기능
     public void order(){
-        System.out.println("서양 요리를 주문합니다.");
+        System.out.println("아시안 요리를 주문합니다.");
         course.combineMenu();
         chef.cook();
     }
