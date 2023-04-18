@@ -2,7 +2,7 @@ package com.spring.core.chap04;
 
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class KimuraChef implements Chef {
 
     public void cook() {
